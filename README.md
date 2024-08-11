@@ -9,7 +9,7 @@ Game Development: Currently working with Godot, Blender, and GDScript to create 
 Technical Support: Background in configuring network infrastructure, including switches, access points, servers, and firewalls.
 Programming: Exploring algorithms, Java programming, and learning Python.
 Creative Skills: Proficient in photo editing, video editing, digital illustration, and 3D modeling. I am also learning electric guitar and interested in metal music.
-##Projects
+**Projects**
 FitFinder
 A Learning Management System (LMS) project where I utilized PHP, Laravel, and Blade for development.
 
