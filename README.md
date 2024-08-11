@@ -10,10 +10,10 @@ Technical Support: Background in configuring network infrastructure, including s
 Programming: Exploring algorithms, Java programming, and learning Python.
 Creative Skills: Proficient in photo editing, video editing, digital illustration, and 3D modeling. I am also learning electric guitar and interested in metal music.
 ##Projects
-#FitFinder
+FitFinder
 A Learning Management System (LMS) project where I utilized PHP, Laravel, and Blade for development.
 
-#Godot Game Sample
+Godot Game Sample
 A sample game developed using the Godot engine with a focus on pixel art and tile-based maps.
 <!--
 **toastedbread21/toastedbread21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
