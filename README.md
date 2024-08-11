@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carl Llaguno</h1>
+<h1 align="center">Hi 👋, I'm Carl</h1>
 <img src="https://i.imgur.com/qNrGjzd.png" alt = "banner">
 <h3 align="center">a passionate and aspiring software engineer with a strong background in web development, technical support, and game development. I’m enthusiastic about exploring new technologies and continuously improving my skills.</h3>
 
