@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Flutter test Project
 
-- 🌱 I’m currently learning **Flutter, LAMP & MERN stack, Game Development GODOT, BeautifulSoup, Python**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 📫 How to reach me **Llagunocarl@gmail.com**
 
